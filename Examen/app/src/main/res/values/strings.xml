@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="Val1">Primer numero</string>
+    <string name="Val2">Segundo Valor</string>
+    <string name="Val3">Tercer Valor</string>
+    <string name="Val4">Primer Valor</string>
+    <string name="suma">suma</string>
+    <string name="Suma">Suma</string>
+    <string name="Resta">Resta</string>
+    <string name="Divicion">Divicion</string>
+    <string name="Multiplicacion">Multiplicacion</string>
+    <string name="Multi">Multi</string>
+    <string name="Resultado">Resultado</string>
+    <string name="operar">operar</string>
+    <string name="Historial" />
+    <string name="Historial1">Historial</string>
+</resources>
